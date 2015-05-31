@@ -1,0 +1,32 @@
+﻿Build started 31/05/2015 5:54:15 PM.
+     1>Project "C:\Users\Adam\documents\visual studio 2013\Projects\SNU Longest Hairpin Sequence\SNU Longest Hairpin Sequence\SNU Longest Hairpin Sequence.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BackTrack.cpp
+         BackTrack.cpp
+     1>c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(14): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(120): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(130): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(120) : definition of 'i' ignored
+                 c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(12) : definition of 'i' used
+     1>c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(130): warning C4258: 'j' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(125) : definition of 'j' ignored
+                 c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(12) : definition of 'j' used
+     1>c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(135): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(143): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(151): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\adam\documents\visual studio 2013\projects\snu longest hairpin sequence\snu longest hairpin sequence\backtrack.cpp(160): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Adam\documents\visual studio 2013\Projects\SNU Longest Hairpin Sequence\Debug\SNU Longest Hairpin Sequence.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Adam\documents\visual studio 2013\Projects\SNU Longest Hairpin Sequence\Debug\SNU Longest Hairpin Sequence.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Adam\documents\visual studio 2013\Projects\SNU Longest Hairpin Sequence\Debug\SNU Longest Hairpin Sequence.lib" /MACHINE:X86 Debug\BackTrack.obj
+         Debug\basesMatch.obj
+         Debug\main.obj
+         Debug\MaxAndDirection.obj
+         Debug\PrintM.obj
+         Debug\PrintT.obj
+         Debug\smallest.obj
+         SNU Longest Hairpin Sequence.vcxproj -> C:\Users\Adam\documents\visual studio 2013\Projects\SNU Longest Hairpin Sequence\Debug\SNU Longest Hairpin Sequence.exe
+     1>Done Building Project "C:\Users\Adam\documents\visual studio 2013\Projects\SNU Longest Hairpin Sequence\SNU Longest Hairpin Sequence\SNU Longest Hairpin Sequence.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.19
